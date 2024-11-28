@@ -21,6 +21,7 @@ It's Test Driven Development (TDD) for LLM-backed apps.
 
 | Name | Distribution | Maturity | Self-service signup |
 | --- | --- | --- | --- |
+| [Humanloop](https://www.humanloop.com/) | SaaS + VPC | Released | Yes |
 | [Freeplay](https://freeplay.ai/) | SaaS | Private Beta | No |
 | [Patronus AI](https://www.patronus.ai/) | SaaS | Released | No |
 
